@@ -1,5 +1,4 @@
 # TypeCount
-_Counting with types, for example, to statically define collection sizes._
 
 Open `TypeCount.xcworkspace` in Xcode, build `TypeCount-Package` and check out the `macOS.playground` therein. 
 
