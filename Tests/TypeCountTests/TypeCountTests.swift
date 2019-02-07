@@ -4,7 +4,7 @@ import XCTest
 final class TypeCountTests: XCTestCase {
     
     func test_() {
-        XCTAssertEqual(e4<_2,_0,_1,_8>.count, 2018)
+        XCTAssertEqual(N₄<˙2,˙0,˙1,˙8>.count, 2018)
     }
 
     static var allTests = [

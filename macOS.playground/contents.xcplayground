@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Counting in Types 1'/>
+        <page name='Counting in Types 2'/>
+        <page name='Counting in Types 3'/>
+        <page name='Counting in Types 4'/>
+        <page name='Counting in Types 5'/>
+        <page name='Counting in Types 6'/>
+        <page name='Live Coding 😰'/>
+    </pages>
 </playground>

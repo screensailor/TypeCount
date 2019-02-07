@@ -42,10 +42,10 @@ extension TypeCountedArray: CustomStringConvertible {
     }
 }
 
-public typealias EmptyArrayOf<Element> = TypeCountedArray<_0, Element>
+public typealias EmptyArrayOf<Element> = TypeCountedArray<˙0, Element>
 
-public typealias ArrayOf1<Element> = TypeCountedArray<_1, Element>
-public typealias ArrayOf2<Element> = TypeCountedArray<_2, Element>
-public typealias ArrayOf3<Element> = TypeCountedArray<_3, Element>
-public typealias ArrayOf4<Element> = TypeCountedArray<_4, Element>
-public typealias ArrayOf5<Element> = TypeCountedArray<_5, Element>
+public typealias ArrayOf1<Element> = TypeCountedArray<˙1, Element>
+public typealias ArrayOf2<Element> = TypeCountedArray<˙2, Element>
+public typealias ArrayOf3<Element> = TypeCountedArray<˙3, Element>
+public typealias ArrayOf4<Element> = TypeCountedArray<˙4, Element>
+public typealias ArrayOf5<Element> = TypeCountedArray<˙5, Element>
